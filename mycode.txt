@@ -1,2 +1,3 @@
+import module
 print("my first line ")
-print("my second line ")
+print("my latest second line ")
