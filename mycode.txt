@@ -1,4 +1,2 @@
-import module
 print("my first line ")
-print("my lastest second line ")
-
+print("my second line ")
